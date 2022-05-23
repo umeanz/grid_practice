@@ -16,4 +16,7 @@
     1st column 100x100px 100x100px 200x100px 
     2nd column 100x100px 100x100px 200x100px
     3rd column 100x200px 100x200px 200x200px
+ 
+ 4. question: if the group is not list format, is it not able to use nth-child? 
+5. various format to make grid 
 
