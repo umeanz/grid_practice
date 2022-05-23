@@ -264,6 +264,7 @@
    background-color: blueviolet;
    opacity: 0.5;
    display: none;
+   
 }
 
 .wrapper:hover .wrapper__columns .grid{
